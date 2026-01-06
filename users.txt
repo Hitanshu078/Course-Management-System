@@ -1,0 +1,11 @@
+1 admin admin123 ADMIN 1
+2 hita 233151 STUDENT 0
+3 1 ko STUDENT 0
+4 4 hi FACULTY 1
+5 faculty facultyiop FACULTY 1
+6 j pop STUDENT 1
+7 go 098 FACULTY 1
+8 new new STUDENT 1
+9 qwerty qwerty STUDENT 1
+10 portal ert ADMIN 1
+11 newadmin 9807 ADMIN 1
